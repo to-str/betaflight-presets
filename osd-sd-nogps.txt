@@ -9,3 +9,5 @@ set osd_mah_drawn_pos = 2404
 set osd_altitude_pos = 18508
 set osd_warnings_pos = 14601
 set osd_avg_cell_voltage_pos = 2339
+
+save
